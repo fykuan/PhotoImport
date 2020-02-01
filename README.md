@@ -1,4 +1,4 @@
-# PhotosImport
+# PhotoImport
 Monitors image files (jpg/png/tiff) in specific folder and add them into Photos album
 
 # Usage
