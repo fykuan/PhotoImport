@@ -1,5 +1,6 @@
 on adding folder items to theAttachedFolder after receiving theNewItems
 	addImages(theAttachedFolder)
+	delay 3
 	tell application "Finder" to delete theNewItems
 end adding folder items to
 
